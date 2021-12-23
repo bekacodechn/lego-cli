@@ -1,0 +1,19 @@
+{
+  "name": "@bekacode/core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "lego": "./cli/bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "import-local": "^3.0.3",
+    "npmlog": "^6.0.0"
+  }
+}
