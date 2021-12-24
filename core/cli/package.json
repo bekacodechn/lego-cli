@@ -1,6 +1,6 @@
 {
   "name": "@bekacode/cli",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "bekacodechn <bekacodechn@gmail.com>",
   "homepage": "",
@@ -23,7 +23,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@bekacode/log": "^0.0.0",
+    "@bekacode/log": "^0.0.1",
     "colors": "^1.4.0",
     "dotenv": "^10.0.0",
     "import-local": "^3.0.3",
