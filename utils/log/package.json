@@ -1,6 +1,6 @@
 {
   "name": "@bekacode/log",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "> TODO: description",
   "author": "bekacodechn <bekacodechn@gmail.com>",
   "homepage": "",
@@ -14,7 +14,8 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
@@ -22,5 +23,5 @@
   "dependencies": {
     "npmlog": "^6.0.0"
   },
-  "gitHead": "63bcc0c019b9c6eec1d72d87eb72a1e2ceb87533"
+  "gitHead": "03482c93b4132187814e3375eb7d7eee1bc43711"
 }

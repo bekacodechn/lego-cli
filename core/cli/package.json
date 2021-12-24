@@ -1,6 +1,6 @@
 {
   "name": "@bekacode/cli",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "> TODO: description",
   "author": "bekacodechn <bekacodechn@gmail.com>",
   "homepage": "",
@@ -17,13 +17,14 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@bekacode/log": "^0.0.1",
+    "@bekacode/log": "^0.0.0",
     "colors": "^1.4.0",
     "dotenv": "^10.0.0",
     "import-local": "^3.0.3",
@@ -33,5 +34,5 @@
     "semver": "^7.3.5"
   },
   "type": "commonjs",
-  "gitHead": "63bcc0c019b9c6eec1d72d87eb72a1e2ceb87533"
+  "gitHead": "03482c93b4132187814e3375eb7d7eee1bc43711"
 }
