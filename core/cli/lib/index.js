@@ -74,7 +74,7 @@ function checkNodeVersion() {
   const currentVersion = process.version;
   if (semver.lt(currentVersion, LOWEST_NODE_VERSION)) {
     throw new Error(
-      colors.red(`lego-cli 需要安装${LOWEST_NODE_VERSION}以上的版本`)
+      colors.red(`lego-cli 需要安装${LOWEST_NODE_VERSION}以上的版本~`)
     );
   }
 }

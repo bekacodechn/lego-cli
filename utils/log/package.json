@@ -1,6 +1,6 @@
 {
   "name": "@bekacode/log",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "> TODO: description",
   "author": "bekacodechn <bekacodechn@gmail.com>",
   "homepage": "",
@@ -21,5 +21,6 @@
   },
   "dependencies": {
     "npmlog": "^6.0.0"
-  }
+  },
+  "gitHead": "63bcc0c019b9c6eec1d72d87eb72a1e2ceb87533"
 }
